@@ -100,7 +100,7 @@ npx expo start
 <img src="assets/screenshot/profile.jpg" alt="Profile Screen" width="300"/>
 
 ### Join Room Screen
-<img src="assets/screenshot/join-room.jpg" alt="Join Room Screen" width="300"/>
+<img src="assets/screenshot/join room.jpg" alt="Join Room Screen" width="300"/>
 
 ### My Created Rooms Screen
 <img src="assets/screenshot/mycreateroom.jpg" alt="My Created Rooms Screen" width="300"/>
